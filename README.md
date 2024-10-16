@@ -27,4 +27,4 @@ To get started with the User Management Application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashwinhegde19/user-management-app.git
+   git clone https://github.com/Ashwinhegde19/User-Management-System.git
